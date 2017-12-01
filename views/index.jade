@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h1= title
+  div
+    textarea#alternatives(readonly)
+  div
+    textarea#logs(readonly)
+  script(type='text/javascript', src='https://code.jquery.com/jquery-3.2.1.min.js')
+  script(type='text/javascript', src='/javascripts/index.js')
