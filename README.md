@@ -10,7 +10,7 @@ Google Speech API を使用して音声認識を行うチュートリアルで�
 
 ## SoXのインストール
 
-`node-record-lpcm16` の記述を参考にSoXをインストールしてください。
+node-record-lpcm16 の記述を参考に SoX をインストールしてください。
 
 https://github.com/gillesdemey/node-record-lpcm16
 
